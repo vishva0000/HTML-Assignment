@@ -1,0 +1,30 @@
+.body{
+    background-color: #e7e2e2;
+    font-family: 'Roboto', sans-serif;
+}
+.main{
+    margin-top: 10%;
+}
+.second{
+    padding: 30px;
+}
+a{
+    text-decoration: none;
+}
+.a{
+    color: #ADADAD;
+
+}
+.hero-image{
+    border-radius: 50%;;
+    border: 20px solid #FFFFFF;
+}
+.red{
+    color: #C8242F;
+}
+.back-red{
+    background-color: #C8242F;
+}
+.text-size{
+    font-size: 1.5rem;
+}
