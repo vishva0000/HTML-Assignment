@@ -15,6 +15,9 @@ a{
     color: #ADADAD;
 
 }
+.white-box{
+    width: 300px;
+}
 .hero-image{
     border-radius: 50%;;
     border: 20px solid #FFFFFF;
